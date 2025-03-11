@@ -14,6 +14,7 @@ The project utilizes **DAX calculations, Vega-Lite visualizations, and interacti
 
 ## 🛠 Tools & Technologies Used  
 ✅ **Power BI** – For data modeling, visualization, and interactivity  
+✅ **Python** – Data transformation & adding image links
 ✅ **DAX (Data Analysis Expressions)** – Custom calculations and measures  
 ✅ **Vega-Lite JSON** – Custom heatmaps and data visualizations  
 ✅ **GitHub** – Version control and project sharing  
